@@ -1,4 +1,4 @@
-# gTest-Example-with-Makefile
+# gTest-Example-with-CMake
 
    This repo is a demonstration of unit testing using Google Test (gTest) for
    future C++ development purposes.
