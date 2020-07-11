@@ -6,8 +6,6 @@ set(Sources
     HelloWorld_Test.cpp
 )
 
-set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "../build")
-
 add_executable(${This} ${Sources})
 target_link_libraries(${This} PUBLIC
     gtest_main

@@ -9,6 +9,4 @@ TEST(HelloWorld_Test, GTestMacros)
     std::string actual = greeter.sayHello();
     EXPECT_EQ(actual, actual);
     EXPECT_EQ(1,1);
-
-
 }
