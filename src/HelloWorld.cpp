@@ -5,6 +5,6 @@ class HelloWorld
     public:
         std::string sayHello()
         {
-           return "Hello, World!\n";
+           return "Hello, World!";
         }  
 };

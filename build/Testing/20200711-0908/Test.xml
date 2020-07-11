@@ -24,8 +24,8 @@
 	ProcessorClockFrequency="3600"
 	>
 	<Testing>
-		<StartDateTime>Jul 11 02:08 PDT</StartDateTime>
-		<StartTestTime>1594458509</StartTestTime>
+		<StartDateTime>Jul 11 15:58 PDT</StartDateTime>
+		<StartTestTime>1594508325</StartTestTime>
 		<TestList>
 			<Test>./test/HelloWorld_Test</Test>
 		</TestList>
@@ -36,7 +36,7 @@
 			<FullCommandLine>/root/Code/Example-gTest/build/test/HelloWorld_Test</FullCommandLine>
 			<Results>
 				<NamedMeasurement type="numeric/double" name="Execution Time">
-					<Value>0.00908995</Value>
+					<Value>0.00896502</Value>
 				</NamedMeasurement>
 				<NamedMeasurement type="numeric/double" name="Processors">
 					<Value>1</Value>
@@ -48,12 +48,12 @@
 					<Value>/root/Code/Example-gTest/build/test/HelloWorld_Test</Value>
 				</NamedMeasurement>
 				<Measurement>
-					<Value encoding="base64" compression="gzip">eJyNkMFqwzAMhu9+Ch2bQ+z1AXYoW2mhrBvpxg4hFC9RTcCWiu2se/zFcylrYKP/QfygD0m/qoGoJwNO9zQr4ODZgfLMUT1wh2r5pd3RYmleMURlmI3FOLHBt8okt09DZNuK+v6iBqrzhjkkJm84+zD0EaWoy4saWFn+0Db3kT57z+SQRhZjORwn8O+Za7SW39nbbp+OFTVUb1v4UTNtylWqT7r1HEYw63nzPwizO3ChuPmCzEPkqG0hbksZUfuy4xNd//Cv34HXJK/3jGleFrvd8jHFzqwU3y0bm1E=</Value>
+					<Value encoding="base64" compression="gzip">eJyNUcFOwzAMvecrfFwPTYA7BzSqISExaEEcqmrKWhMVJfGUpMDn0yxTpVZi7J0c+fk9v7gcrO2tAiN7u8rgw5EB4YiCWFOHoviR5qAxV6/og1BESmNYlN61QsVqF0V427L6dkID5cnhBiLHJ4vr4wP80AfkrM4nNLDRtJc69dF+9Y6sQTtyMeTDYUGeiT6g1vROTne7uC6roXx7giOaZZNXwY1bbfefxctITNg+nifC6gqMz84Lr9PAf7ITbRK9NFcagEBB6oxd9nkBpcs7+rbz2/x5E3DS8rnRmOb5rqqK+xj6NMjZL9PUtxM=</Value>
 				</Measurement>
 			</Results>
 		</Test>
-		<EndDateTime>Jul 11 02:08 PDT</EndDateTime>
-		<EndTestTime>1594458509</EndTestTime>
+		<EndDateTime>Jul 11 15:58 PDT</EndDateTime>
+		<EndTestTime>1594508325</EndTestTime>
 		<ElapsedMinutes>0</ElapsedMinutes>
 	</Testing>
 </Site>

@@ -1,29 +1,31 @@
-Start testing: Jul 11 02:08 PDT
+Start testing: Jul 11 15:58 PDT
 ----------------------------------------------------------
 1/1 Testing: HelloWorld_Test
 1/1 Test: HelloWorld_Test
 Command: "/root/Code/Example-gTest/build/test/HelloWorld_Test"
 Directory: /root/Code/Example-gTest/build/test
-"HelloWorld_Test" start time: Jul 11 02:08 PDT
+"HelloWorld_Test" start time: Jul 11 15:58 PDT
 Output:
 ----------------------------------------------------------
 Running main() from /root/Code/Example-gTest/googletest/googletest/src/gtest_main.cc
-[==========] Running 1 test from 1 test suite.
+[==========] Running 2 tests from 1 test suite.
 [----------] Global test environment set-up.
-[----------] 1 test from HelloWorld_Test
-[ RUN      ] HelloWorld_Test.GTestMacros
-[       OK ] HelloWorld_Test.GTestMacros (0 ms)
-[----------] 1 test from HelloWorld_Test (0 ms total)
+[----------] 2 tests from HelloWorld_Test
+[ RUN      ] HelloWorld_Test.StringObjEQ
+[       OK ] HelloWorld_Test.StringObjEQ (0 ms)
+[ RUN      ] HelloWorld_Test.CStringEQ
+[       OK ] HelloWorld_Test.CStringEQ (0 ms)
+[----------] 2 tests from HelloWorld_Test (0 ms total)
 
 [----------] Global test environment tear-down
-[==========] 1 test from 1 test suite ran. (0 ms total)
-[  PASSED  ] 1 test.
+[==========] 2 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 2 tests.
 <end of output>
 Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"HelloWorld_Test" end time: Jul 11 02:08 PDT
+"HelloWorld_Test" end time: Jul 11 15:58 PDT
 "HelloWorld_Test" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Jul 11 02:08 PDT
+End testing: Jul 11 15:58 PDT
