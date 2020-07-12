@@ -1,1 +1,0 @@
-/usr/bin/g++-7  -g   CMakeFiles/HelloWorld_Test.dir/HelloWorld_Test.cpp.o  -o HelloWorld_Test ../lib/libgtest_maind.a ../src/libHelloWorld.a ../lib/libgtestd.a -lpthread 
